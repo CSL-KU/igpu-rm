@@ -1,1 +1,1 @@
-# Project on Integrated CPU-GPU SoC Resource Management
+# Integrated CPU-GPU SoC Resource Management Project
