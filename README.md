@@ -9,8 +9,8 @@ Intelligent Cyber-Physical Systems (CPS), such as autonomous cars and drones, de
 ## People
 
 #### Faculty 
-  * Heechul Yun, KU
-  * Lui Sha, UIUC
+  * [Heechul Yun](https://ittc.ku.edu/~heechul), KU
+  * [Lui Sha](http://publish.illinois.edu/cpsintegrationlab/people/lui-sha/), UIUC
 
 #### Students
   * Waqar Ali, KU
