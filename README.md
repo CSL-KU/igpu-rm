@@ -19,6 +19,6 @@ Intelligent Cyber-Physical Systems (CPS), such as autonomous cars and drones, de
 
 * Waqar Ali, Heechul Yun. "Protecting Real-Time GPU Applications on Integrated CPU-GPU SoC Platforms," _Euromicro Conference on Real-Time Systems (ECRTS)_, 2018 (to appear) [[pdf](https://arxiv.org/pdf/1712.08738.pdf)] 
 
-## Sponsors
+## Sponsor
 
 * National Science Foundation (NSF)
