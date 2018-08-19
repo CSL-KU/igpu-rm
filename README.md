@@ -4,11 +4,15 @@ Intelligent Cyber-Physical Systems (CPS), such as autonomous cars and drones, de
 
 ## Products
 
-* [BWLOCK++](https://github.com/wali-ku/BWLOCK-GPU) Real-Time GPU kernel protection mechanism for Integrated CPU-GPU SoC
+* [BWLOCK++](https://github.com/wali-ku/BWLOCK-GPU), Real-Time GPU kernel protection mechanism for Integrated CPU-GPU SoC
+* [DeepPicar](https://github.com/mbechtel2/DeepPicar-v2), End-to-end deep learning based autonomous RC.
 
 ## Publications
 
 * Waqar Ali, Heechul Yun. "Protecting Real-Time GPU Applications on Integrated CPU-GPU SoC Platforms," _Euromicro Conference on Real-Time Systems (ECRTS)_, 2018 [[pdf](http://drops.dagstuhl.de/opus/volltexte/2018/8983/pdf/LIPIcs-ECRTS-2018-19.pdf)] 
+
+* Michael Garrett Bechtel, Elise McEllhiney, Minje Kim, Heechul Yun. "DeepPicar: A Low-cost Deep Neural Network-based Autonomous Car." _IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)_, 2018 [[pdf]](https://arxiv.org/pdf/1712.08644.pdf) 
+
 
 ## People
 
