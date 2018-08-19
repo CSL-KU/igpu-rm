@@ -21,4 +21,4 @@ Intelligent Cyber-Physical Systems (CPS), such as autonomous cars and drones, de
 
 ## Sponsor
 
-* National Science Foundation (NSF), [CNS-1815959](https://nsf.gov/awardsearch/showAward?AWD_ID=1815959&HistoricalAwards=false)
+* National Science Foundation (NSF): [CNS-1815959](https://nsf.gov/awardsearch/showAward?AWD_ID=1815959&HistoricalAwards=false)
