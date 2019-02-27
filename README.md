@@ -28,6 +28,9 @@ Intelligent Cyber-Physical Systems (CPS), such as autonomous cars and drones, de
 
 #### Students
   * Waqar Ali, KU
+  * Michael Garrett Bechtel, KU
+  * Farzad Farshchi, KU
+  * Rohan Tabish, UIUC
 
 ## Sponsor
 
