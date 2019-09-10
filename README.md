@@ -11,7 +11,7 @@ Intelligent Cyber-Physical Systems (CPS), such as autonomous cars and drones, de
 
 ## Publications
 
-* Waqar Ali, Michael Bechtel and Heechul Yun. "Analyzable and Practical Real-Time Gang Scheduling on Multicore Using RT-Gang," _Workshop on Operating Systems Platforms for Embedded Real-Time applications (OSPERT)_, July 2019. [[paper](http://www.ittc.ku.edu/~heechul/papers/rtgang-ospert2019-abstract.pdf) [[slides](http://www.ittc.ku.edu/~heechul/papers/rtgang-ospert2019-slides.pdf)]
+* Waqar Ali, Michael Bechtel and Heechul Yun. "Analyzable and Practical Real-Time Gang Scheduling on Multicore Using RT-Gang," _Workshop on Operating Systems Platforms for Embedded Real-Time applications (OSPERT)_, July 2019. [[paper](http://www.ittc.ku.edu/~heechul/papers/rtgang-ospert2019-abstract.pdf)] [[slides](http://www.ittc.ku.edu/~heechul/papers/rtgang-ospert2019-slides.pdf)]
 
 * Waqar Ali and Heechul Yun. "RT-Gang: Real-Time Gang Scheduling Framework for Safety-Critical Systems," _IEEE Intl. Conference on Real-Time and Embedded Technology and Applications Symposium (RTAS)_, 2019 [[paper](http://www.ittc.ku.edu/~heechul/papers/rtgang-rtas2019-camera.pdf)][[slides](http://www.ittc.ku.edu/~heechul/papers/rtgang-rtas2019-slides.pdf)]
 
