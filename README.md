@@ -5,7 +5,7 @@ Intelligent Cyber-Physical Systems (CPS), such as autonomous cars and drones, de
 ## Artifacts
 
 * [RT-Gang](https://github.com/CSL-KU/RT-Gang): RT-Gang: Real-Time Gang Scheduling for Safety Critical Systems
-* [NVDLA-FireSim](https://github.com/CSL-KU/firesim-nvdla): NVIDIA Deep Learning Accelerator (NVDLA) Integrated with RISC-V Rocket Chip SoC on the Amazon FPGA Cloud
+* [NVDLA-FireSim](https://github.com/CSL-KU/firesim-nvdla): NVIDIA Deep Learning Accelerator (NVDLA) Integrated with RISC-V SoC on the Amazon FPGA Cloud
 * [BWLOCK++](https://github.com/wali-ku/BWLOCK-GPU): Real-Time GPU kernel protection mechanism for Integrated CPU-GPU SoC
 * [DeepPicar](https://github.com/mbechtel2/DeepPicar-v2): End-to-end deep learning based autonomous RC car.
 
