@@ -30,8 +30,9 @@ Intelligent Cyber-Physical Systems (CPS), such as autonomous cars and drones, de
   * Waqar Ali, KU
   * Michael Garrett Bechtel, KU
   * Farzad Farshchi, KU
+  * Ayoosh Bansal, UIUC
   * Rohan Tabish, UIUC
-
+  
 ## Sponsor
 
 * National Science Foundation (NSF): [CNS-1815959](https://nsf.gov/awardsearch/showAward?AWD_ID=1815959&HistoricalAwards=false)
