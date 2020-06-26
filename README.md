@@ -3,13 +3,16 @@
 Intelligent Cyber-Physical Systems (CPS), such as autonomous cars and drones, demand high computing performance to process massive amount of real-time data while also keeping their size, weight, power and cost to an acceptable level. Graphics processing unit (GPU) is specially designed hardware to efficiently process such large data. Therefore, GPUs are increasingly being integrated in new generations of computer chips. Unfortunately, such integrated chips often exhibit unpredictable timing behaviors---due to unregulated use of shared hardware resources—that can prevent timely execution of critical tasks. This project is focusing on creating a new real-time computing infrastructure for GPU integrated computer chips to provide predictable timing and high-performance. 
 
 ## Artifacts
-
 * [RT-Gang](https://github.com/CSL-KU/RT-Gang): RT-Gang: Real-Time Gang Scheduling for Safety Critical Systems
 * [NVDLA-FireSim](https://github.com/CSL-KU/firesim-nvdla): NVIDIA Deep Learning Accelerator (NVDLA) Integrated with RISC-V SoC on the Amazon FPGA Cloud
 * [BWLOCK++](https://github.com/wali-ku/BWLOCK-GPU): Real-Time GPU kernel protection mechanism for Integrated CPU-GPU SoC
 * [DeepPicar](https://github.com/mbechtel2/DeepPicar-v2): End-to-end deep learning based autonomous RC car.
 
 ## Publications
+
+* Farzad Farshchi, Qijing Huang, and Heechul Yun. BRU: Bandwidth Regulation Unit for Real-Time Multicore Processors. IEEE Intl. Conference on Real-Time and Embedded Technology and Applications Symposium (RTAS), April 2020. [[paper](http://www.ittc.ku.edu/~heechul/papers/bru-rtas2020-camera.pdf) [[slides](http://www.ittc.ku.edu/~heechul/papers/bru-rtas2020-slides.pdf)]
+
+* Waqar Ali, Rodolfo Pellizzoni, Heechul Yun. Virtual Gang based Scheduling of Real-Time Tasks on Multicore Platforms, arXiv preprint arXiv:1912.10959, February 2020. [[arXiv](https://arxiv.org/abs/1912.10959)]
 
 * Waqar Ali, Michael Bechtel and Heechul Yun. "Analyzable and Practical Real-Time Gang Scheduling on Multicore Using RT-Gang," _Workshop on Operating Systems Platforms for Embedded Real-Time applications (OSPERT)_, July 2019. [[abstract](http://www.ittc.ku.edu/~heechul/papers/rtgang-ospert2019-abstract.pdf)] [[slides](http://www.ittc.ku.edu/~heechul/papers/rtgang-ospert2019-slides.pdf)]
 
