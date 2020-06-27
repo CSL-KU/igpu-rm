@@ -3,6 +3,7 @@
 Intelligent Cyber-Physical Systems (CPS), such as autonomous cars and drones, demand high computing performance to process massive amount of real-time data while also keeping their size, weight, power and cost to an acceptable level. Graphics processing unit (GPU) is specially designed hardware to efficiently process such large data. Therefore, GPUs are increasingly being integrated in new generations of computer chips. Unfortunately, such integrated chips often exhibit unpredictable timing behaviors---due to unregulated use of shared hardware resources—that can prevent timely execution of critical tasks. This project is focusing on creating a new real-time computing infrastructure for GPU integrated computer chips to provide predictable timing and high-performance. 
 
 ## Artifacts
+* [BRU](https://github.com/CSL-KU/bru-firesim): Bandwidth Regulation Unit (BRU) for RISC-V
 * [RT-Gang](https://github.com/CSL-KU/RT-Gang): RT-Gang: Real-Time Gang Scheduling for Safety Critical Systems
 * [NVDLA-FireSim](https://github.com/CSL-KU/firesim-nvdla): NVIDIA Deep Learning Accelerator (NVDLA) Integrated with RISC-V SoC on the Amazon FPGA Cloud
 * [BWLOCK++](https://github.com/wali-ku/BWLOCK-GPU): Real-Time GPU kernel protection mechanism for Integrated CPU-GPU SoC
